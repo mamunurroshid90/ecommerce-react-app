@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import { categories } from "../data/data";
 
 export const Category = () => {
